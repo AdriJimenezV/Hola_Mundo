@@ -1,1 +1,2 @@
-# Hola_Mundo
+Exercici 9
+Pràctica 4
